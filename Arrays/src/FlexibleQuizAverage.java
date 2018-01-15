@@ -14,6 +14,7 @@ public class FlexibleQuizAverage {
         score = input.nextInt();
 
 
+
         while (count < scores.length && score != QUIT) {
 
                 scores[count] = score;
